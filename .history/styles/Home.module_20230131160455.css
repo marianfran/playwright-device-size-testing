@@ -176,14 +176,14 @@
 /** Tablet */
 @media (max-width: 820px) {
   .container {
-    background-color: rgb(0, 0, 255);
+    background-color: blue;
   }
 }
 
 /* Mobile */
 @media (max-width: 414px) {
   .container {
-    background-color: rgb(255, 0, 0);
+    background-color: red;
   }
   .content {
     padding: 4rem;
